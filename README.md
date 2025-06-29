@@ -2,24 +2,20 @@
 
 This repository contains the mandatory hands-on exercises completed as part of the **Digital Nurture 4.0 - Java Full Stack Engineer (Java FSE)** Deep Skilling Program.
 
-## 📅 Week 1 Modules
-
-### 🔹 Design Principles & Patterns
-- ✅ Exercise 1: Implementing the Singleton Pattern
-- ✅ Exercise 2: Implementing the Factory Method Pattern
-
-### 🔹 Data Structures and Algorithms
-- ✅ Exercise 2: E-commerce Platform Search Function
-- ✅ Exercise 7: Financial Forecasting
 
 ## 📁 Repository Structure
 ```
 JavaFSE-DN4.0-HandsOn/
 ├── Week1/
-│   ├── Singleton/
-│   ├── FactoryMethodPattern/
-│   ├── SearchFunction/
-│   └── FinancialForecasting/
+│   ├── DesignPrinciplesandPattern_HandsOn.docx/
+│   ├── E-commerce Platform Search Function_HandsOn.docx/
+│   ├── Factory_Method_Pattern_Example_HandsOn.docx/
+│   └── Financial Forecasting_HandsOn.docx/
+├── week2/
+|   ├── JUnit5_exercises.docx/
+|   ├── Logging using SLF4J.docx/
+|   ├── Mockito Hands-On Exercises.docx/
+    └── PL_SQL Exercises_.docx/
 ...
 ```
 
