@@ -15,7 +15,10 @@ JavaFSE-DN4.0-HandsOn/
 |   ├── JUnit5_exercises.docx/
 |   ├── Logging using SLF4J.docx/
 |   ├── Mockito Hands-On Exercises.docx/
-    └── PL_SQL Exercises_.docx/
+|   └── PL_SQL Exercises_.docx/
+├── Week3/
+|   ├── Spring Core and Maven.docx/
+|   └── Spring Data Jpa.docx/
 ...
 ```
 
